@@ -1,4 +1,3 @@
-projekat iz baza podataka (master 1. godina)<br />
 primat na bazama podataka mysql(funkcije, procedure, trigeri, eventi) + mongodb(crud operacije)<br />
 2 ista sajta sa razlicitim bazama<br />
 pogledati uputstvo.pdf
